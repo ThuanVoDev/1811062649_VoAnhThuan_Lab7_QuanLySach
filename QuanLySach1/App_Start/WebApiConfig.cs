@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
+
+//commit hoàn thành lab7
 namespace QuanLySach1
 {
     public static class WebApiConfig
